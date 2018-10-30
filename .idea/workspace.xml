@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dcc829bf-8c15-4abc-89aa-f06b8934f444" name="Default" comment="" />
+    <list default="true" id="dcc829bf-8c15-4abc-89aa-f06b8934f444" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,12 +12,28 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="LICENSE" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LICENSE">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3417">
+              <caret line="201" lean-forward="true" selection-start-line="201" selection-end-line="201" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>chara</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/tech_summit/qcon/QCon2017</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -36,7 +54,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="115" />
     <option name="y" value="36" />
     <option name="width" value="1157" />
@@ -65,6 +83,12 @@
               <item name="personnal-files" type="462c0819:PsiDirectoryNode" />
               <item name="tech_summit" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="personnal-files" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personnal-files" type="462c0819:PsiDirectoryNode" />
+              <item name="tech_summit" type="462c0819:PsiDirectoryNode" />
+              <item name="qcon" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -80,6 +104,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tech_summit/qcon" />
       <recent name="$PROJECT_DIR$/files/ppt" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -154,15 +179,15 @@
       <workItem from="1533055343908" duration="1157000" />
       <workItem from="1533144977216" duration="389000" />
       <workItem from="1533560754000" duration="600000" />
-      <workItem from="1539791543049" duration="1092000" />
+      <workItem from="1539791543049" duration="6729000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3238000" />
+    <option name="totallyTimeSpent" value="8875000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="115" y="36" width="1157" height="584" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -174,11 +199,12 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.55852157" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32969698" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3264574" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
       <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -191,7 +217,6 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="0" />
@@ -258,6 +283,13 @@
             <caret line="23" column="352" selection-start-line="23" selection-start-column="352" selection-end-line="23" selection-end-column="352" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3417">
+          <caret line="201" lean-forward="true" selection-start-line="201" selection-end-line="201" />
         </state>
       </provider>
     </entry>
