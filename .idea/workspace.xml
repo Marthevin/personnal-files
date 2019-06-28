@@ -2,29 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcc829bf-8c15-4abc-89aa-f06b8934f444" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/books/finance/经济学的著名寓言：市场失灵的神话.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cfa/level II/books/2019 CFA Curriculum Level II Volume 1.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cfa/level II/books/2019 CFA Curriculum Level II Volume 2.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cfa/level II/books/2019 CFA Curriculum Level II Volume 3.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cfa/level II/books/2019 CFA Curriculum Level II Volume 4.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cfa/level II/books/2019 CFA Curriculum Level II Volume 5.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cfa/level II/books/2019 CFA Curriculum Level II Volume 6.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cfa/level II/notes/2019 Required Materials.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cfa/level II/notes/2019CFAL2Quicksheet.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cfa/level II/notes/CFA_2019_－_Level_2_SchweserNotes_Book_1.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cfa/level II/notes/CFA_2019_－_Level_2_SchweserNotes_Book_2.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cfa/level II/notes/CFA_2019_－_Level_2_SchweserNotes_Book_3.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cfa/level II/notes/CFA_2019_－_Level_2_SchweserNotes_Book_4.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cfa/level II/notes/CFA_2019_－_Level_2_SchweserNotes_Book_5.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cfa/notes/2019CFAL1Quicksheet.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/cfa/level I/notes/2019CFAL1Quicksheet.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cfa/notes/CFA 2019 - Level 1 Notes Book 1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/cfa/level I/notes/CFA 2019 - Level 1 Notes Book 1.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cfa/notes/CFA 2019 - Level 1 Schweser Quicksheet.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/cfa/level I/notes/CFA 2019 - Level 1 Schweser Quicksheet.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cfa/notes/CFA 2019 - Level 1 SchweserNotes Book 1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/cfa/level I/notes/CFA 2019 - Level 1 SchweserNotes Book 1.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cfa/notes/CFA 2019 - Level 1 SchweserNotes Book 2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/cfa/level I/notes/CFA 2019 - Level 1 SchweserNotes Book 2.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cfa/notes/CFA 2019 - Level 1 SchweserNotes Book 3.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/cfa/level I/notes/CFA 2019 - Level 1 SchweserNotes Book 3.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cfa/notes/CFA 2019 - Level 1 SchweserNotes Book 4 .pdf" beforeDir="false" afterPath="$PROJECT_DIR$/cfa/level I/notes/CFA 2019 - Level 1 SchweserNotes Book 4 .pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cfa/notes/CFA 2019 - Level 1 SchweserNotes Book 5.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/cfa/level I/notes/CFA 2019 - Level 1 SchweserNotes Book 5.pdf" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -64,8 +42,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="128" />
-    <option name="y" value="23" />
+    <option name="x" value="812" />
+    <option name="y" value="71" />
     <option name="width" value="1005" />
     <option name="height" value="743" />
   </component>
@@ -88,13 +66,7 @@
             <path>
               <item name="personnal-files" type="b2602c69:ProjectViewProjectNode" />
               <item name="personnal-files" type="462c0819:PsiDirectoryNode" />
-              <item name="cfa" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="personnal-files" type="b2602c69:ProjectViewProjectNode" />
-              <item name="personnal-files" type="462c0819:PsiDirectoryNode" />
-              <item name="cfa" type="462c0819:PsiDirectoryNode" />
-              <item name="level III" type="462c0819:PsiDirectoryNode" />
+              <item name="files" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -113,18 +85,18 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/files/img" />
       <recent name="$PROJECT_DIR$/cfa/level I/notes" />
       <recent name="$PROJECT_DIR$/cfa/level I" />
       <recent name="$PROJECT_DIR$/books/finance" />
       <recent name="$PROJECT_DIR$/books/python" />
-      <recent name="$PROJECT_DIR$/books/psychology" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cfa/level III/books" />
       <recent name="$PROJECT_DIR$/cfa/level III/notes" />
       <recent name="$PROJECT_DIR$/cfa/level II/notes" />
       <recent name="$PROJECT_DIR$/cfa/level II/books" />
       <recent name="$PROJECT_DIR$/cfa/other" />
-      <recent name="$PROJECT_DIR$/cfa/notes" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -199,15 +171,15 @@
       <workItem from="1540914577686" duration="1129000" />
       <workItem from="1544458649120" duration="601000" />
       <workItem from="1552833782754" duration="572000" />
-      <workItem from="1561449385843" duration="244000" />
+      <workItem from="1561449385843" duration="1678000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11421000" />
+    <option name="totallyTimeSpent" value="12855000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="53" y="31" width="1005" height="743" extended-state="0" />
+    <frame x="128" y="23" width="1005" height="743" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -219,10 +191,10 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.42105263" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.42105263" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.403946" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.403946" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
